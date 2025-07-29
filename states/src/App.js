@@ -10,6 +10,16 @@ import Eleven from './components/eleven';
 import Twelve from './components/twelve';
 import Thirteen from './components/thirteen';
 import Fourteen from './components/fourteen';
+import Fifteen from './components/fifteen';
+import TwentyTwo from './components/twentytwo';
+import TwentyFour from './components/twentyFour';
+import Sixteen from './components/sixteen';
+import Seventeen from './components/seventeen';
+import Eighteen from './components/eighteen';
+import Nighteen from './components/nighteen';
+import Twenty from './components/twenty';
+import Twentyone from './components/twentyone';
+import TwentyThird from './components/twentyThird';
 
 function App() {
   return (
@@ -67,6 +77,12 @@ function App() {
         </p>
       </div>
       <Four />
+      <div>
+        <h3>5. What is the purpose of the updater function returned by useState()? </h3>
+        <p>The updater function is used to change the value stored in the state.Because in React, you should never change the state directly.
+          You must use the updater function to tell React to re-render the component with the new state.</p>
+        <p>The updater function returned by useState() lets you safely change the state and re-render the component with the updated value.</p>
+      </div>
       <Six />
       <Seven />
       <Eight />
@@ -76,6 +92,16 @@ function App() {
       <Twelve />
       <Thirteen />
       <Fourteen />
+      <Fifteen />
+      <Sixteen />
+      <Seventeen />
+      <Eighteen />
+      <Nighteen />
+      <Twenty />
+      <Twentyone />
+      <TwentyTwo />
+      <TwentyThird />
+      <TwentyFour />
     </div>
   );
 }

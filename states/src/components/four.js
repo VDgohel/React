@@ -6,7 +6,7 @@ export default function Four() {
     return (
         <div>
             <h3>4. Can we use multiple useState() hooks in one component? Explain with an example.</h3>
-            <p>My is my practice of {first} {second}</p>
+            <p>This is my practice of {first} {second}</p>
         </div>
     )
 }

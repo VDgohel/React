@@ -4,6 +4,7 @@
   margin: auto;
   padding: 0 14px;
 }
+
 button {
   background-color: cornflowerblue;
   color: #fff;
@@ -12,7 +13,50 @@ button {
   padding: 6px 12px;
   cursor: pointer;
 }
+
 a {
   text-decoration: none;
   color: blue;
+}
+
+.star span {
+  font-size: 30px;
+}
+
+.star p {
+  margin-bottom: 0;
+}
+
+select {
+  padding: 8px 12px;
+  margin-right: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: border 0.2s ease-in-out;
+}
+
+input {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+select:hover,
+select:focus {
+  border-color: #007bff;
+  outline: none;
+  background-color: #fff;
+}
+
+select {
+  min-width: 180px;
+}
+
+h3 {
+  margin-top: 50px;
 }
