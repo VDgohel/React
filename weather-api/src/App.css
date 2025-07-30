@@ -1,0 +1,162 @@
+:root {
+  --bg-color: #f0f2f5;
+  --card-bg: #ffffff;
+  --accent: #1976d2;
+  --text-dark: #2e3a59;
+  --text-light: #6c7a89;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: var(--bg-color);
+  color: var(--text-dark);
+}
+
+.top-bar {
+  grid-column: span 5;
+  max-width: 1200px;
+  margin: 20px auto 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 0 20px;
+  width: 100%;
+}
+
+.search-input {
+  flex: 1;
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: 'Segoe UI', sans-serif;
+  outline: none;
+}
+
+.search-button {
+  background-color: var(--accent);
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.search-button:hover {
+  background-color: #125ea4;
+}
+
+
+.wrapper {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15%, 1fr));
+  gap: 30px;
+}
+
+.wrapper::after {
+  content: '';
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right top, #74ebd5, #9face6);
+  inset: 0;
+  z-index: -1;
+}
+
+.card {
+  background: var(--card-bg);
+  border-radius: 20px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
+  padding: 25px;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.location-card {
+  grid-column: span 3;
+}
+
+.location-card h1 {
+  font-size: 28px;
+  margin: 0;
+  color: var(--accent);
+}
+
+.location-card p {
+  margin: 5px 0;
+  color: var(--text-light);
+}
+
+.weather-icon {
+  text-align: center;
+  grid-column: span 2;
+}
+
+.weather-icon img {
+  width: 80px;
+}
+
+.temp {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.condition {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 5px;
+  color: var(--accent);
+}
+
+.data-label {
+  font-size: 14px;
+  color: var(--text-light);
+  margin-bottom: 4px;
+}
+
+.data-value {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--text-dark);
+}
+
+.data-pair {
+  margin-bottom: 12px;
+}
+
+.grid-pair {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  color: #888;
+}
+
+@media (max-width: 768px) {
+  .location-card {
+    grid-column: span 1;
+  }
+}
