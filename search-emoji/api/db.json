@@ -1,0 +1,5382 @@
+{
+    "emojis": [
+        {
+            "emoji": "😀",
+            "hexcode": "1f600",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "grinning face",
+            "tags": [
+                "cheerful",
+                "cheery",
+                "face",
+                "grin",
+                "grinning",
+                "happy",
+                "laugh",
+                "nice",
+                "smile",
+                "smiling",
+                "teeth"
+            ],
+            "shortcodes": [
+                ":smile:"
+            ],
+            "emoticons": [
+                ":D"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 1,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😃",
+            "hexcode": "1f603",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "grinning face with big eyes",
+            "tags": [
+                "awesome",
+                "big",
+                "eyes",
+                "face",
+                "grin",
+                "grinning",
+                "happy",
+                "mouth",
+                "open",
+                "smile",
+                "smiling",
+                "teeth",
+                "yay"
+            ],
+            "shortcodes": [
+                ":smile-with-big-eyes:"
+            ],
+            "emoticons": [
+                ":-D"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 2,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😄",
+            "hexcode": "1f604",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "grinning face with smiling eyes",
+            "tags": [
+                "eye",
+                "eyes",
+                "face",
+                "grin",
+                "grinning",
+                "happy",
+                "laugh",
+                "lol",
+                "mouth",
+                "open",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":grin:"
+            ],
+            "emoticons": [
+                "^_^"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 3,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😁",
+            "hexcode": "1f601",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "beaming face with smiling eyes",
+            "tags": [
+                "beaming",
+                "eye",
+                "eyes",
+                "face",
+                "grin",
+                "grinning",
+                "happy",
+                "nice",
+                "smile",
+                "smiling",
+                "teeth"
+            ],
+            "shortcodes": [
+                ":grinning:"
+            ],
+            "emoticons": [
+                "*^_^*"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 4,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😆",
+            "hexcode": "1f606",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "grinning squinting face",
+            "tags": [
+                "closed",
+                "eyes",
+                "face",
+                "grinning",
+                "haha",
+                "hahaha",
+                "happy",
+                "laugh",
+                "lol",
+                "mouth",
+                "open",
+                "rofl",
+                "smile",
+                "smiling",
+                "squinting"
+            ],
+            "shortcodes": [
+                ":laughing:"
+            ],
+            "emoticons": [
+                "X-D"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 5,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😅",
+            "hexcode": "1f605",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "grinning face with sweat",
+            "tags": [
+                "cold",
+                "dejected",
+                "excited",
+                "face",
+                "grinning",
+                "mouth",
+                "nervous",
+                "open",
+                "smile",
+                "smiling",
+                "stress",
+                "stressed",
+                "sweat"
+            ],
+            "shortcodes": [
+                ":grin-sweat:"
+            ],
+            "emoticons": [
+                "^_^;"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 6,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤣",
+            "hexcode": "1f923",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "rolling on the floor laughing",
+            "tags": [
+                "crying",
+                "face",
+                "floor",
+                "funny",
+                "haha",
+                "happy",
+                "hehe",
+                "hilarious",
+                "joy",
+                "laugh",
+                "lmao",
+                "lol",
+                "rofl",
+                "roflmao",
+                "rolling",
+                "tear"
+            ],
+            "shortcodes": [
+                ":rofl:"
+            ],
+            "emoticons": [
+                "*>w<*"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 7,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😂",
+            "hexcode": "1f602",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "face with tears of joy",
+            "tags": [
+                "crying",
+                "face",
+                "feels",
+                "funny",
+                "haha",
+                "happy",
+                "hehe",
+                "hilarious",
+                "joy",
+                "laugh",
+                "lmao",
+                "lol",
+                "rofl",
+                "roflmao",
+                "tear"
+            ],
+            "shortcodes": [
+                ":joy:"
+            ],
+            "emoticons": [
+                ">w<"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 8,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙂",
+            "hexcode": "1f642",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "slightly smiling face",
+            "tags": [
+                "face",
+                "happy",
+                "slightly",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":slightly-happy:"
+            ],
+            "emoticons": [
+                ":)",
+                ":-)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 9,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙃",
+            "hexcode": "1f643",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "upside-down face",
+            "tags": [
+                "face",
+                "hehe",
+                "smile",
+                "upside-down"
+            ],
+            "shortcodes": [
+                ":upside-down-face:"
+            ],
+            "emoticons": [
+                "(:"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 10,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫠",
+            "hexcode": "1fae0",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "melting face",
+            "tags": [
+                "disappear",
+                "dissolve",
+                "embarrassed",
+                "face",
+                "haha",
+                "heat",
+                "hot",
+                "liquid",
+                "lol",
+                "melt",
+                "melting",
+                "sarcasm",
+                "sarcastic"
+            ],
+            "shortcodes": [
+                ":melting:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 11,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😉",
+            "hexcode": "1f609",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "winking face",
+            "tags": [
+                "face",
+                "flirt",
+                "heartbreaker",
+                "sexy",
+                "slide",
+                "tease",
+                "wink",
+                "winking",
+                "winks"
+            ],
+            "shortcodes": [
+                ":wink:"
+            ],
+            "emoticons": [
+                ";)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 12,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😊",
+            "hexcode": "1f60a",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "smiling face with smiling eyes",
+            "tags": [
+                "blush",
+                "eye",
+                "eyes",
+                "face",
+                "glad",
+                "satisfied",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":blush:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 13,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😇",
+            "hexcode": "1f607",
+            "group": "smileys-emotion",
+            "subgroup": "face-smiling",
+            "annotation": "smiling face with halo",
+            "tags": [
+                "angel",
+                "angelic",
+                "angels",
+                "blessed",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "halo",
+                "happy",
+                "innocent",
+                "peaceful",
+                "smile",
+                "smiling",
+                "spirit",
+                "tale"
+            ],
+            "shortcodes": [
+                ":halo:",
+                ":innocent:"
+            ],
+            "emoticons": [
+                "O:)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 14,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥰",
+            "hexcode": "1f970",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "smiling face with hearts",
+            "tags": [
+                "3",
+                "adore",
+                "crush",
+                "face",
+                "heart",
+                "hearts",
+                "ily",
+                "love",
+                "romance",
+                "smile",
+                "smiling",
+                "you"
+            ],
+            "shortcodes": [
+                ":heart-face:",
+                ":3-hearts:"
+            ],
+            "emoticons": [
+                "<3:)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 15,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😍",
+            "hexcode": "1f60d",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "smiling face with heart-eyes",
+            "tags": [
+                "143",
+                "bae",
+                "eye",
+                "face",
+                "feels",
+                "heart-eyes",
+                "hearts",
+                "ily",
+                "kisses",
+                "love",
+                "romance",
+                "romantic",
+                "smile",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":heart-eyes:"
+            ],
+            "emoticons": [
+                "♥_♥"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 16,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤩",
+            "hexcode": "1f929",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "star-struck",
+            "tags": [
+                "excited",
+                "eyes",
+                "face",
+                "grinning",
+                "smile",
+                "star",
+                "starry-eyed",
+                "wow"
+            ],
+            "shortcodes": [
+                ":star-struck:"
+            ],
+            "emoticons": [
+                "*_*"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 17,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😘",
+            "hexcode": "1f618",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "face blowing a kiss",
+            "tags": [
+                "adorbs",
+                "bae",
+                "blowing",
+                "face",
+                "flirt",
+                "heart",
+                "ily",
+                "kiss",
+                "love",
+                "lover",
+                "miss",
+                "muah",
+                "romantic",
+                "smooch",
+                "xoxo",
+                "you"
+            ],
+            "shortcodes": [
+                ":kissing-heart:"
+            ],
+            "emoticons": [
+                ";*"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 18,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😗",
+            "hexcode": "1f617",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "kissing face",
+            "tags": [
+                "143",
+                "date",
+                "dating",
+                "face",
+                "flirt",
+                "ily",
+                "kiss",
+                "love",
+                "smooch",
+                "smooches",
+                "xoxo",
+                "you"
+            ],
+            "shortcodes": [
+                ":kissing:"
+            ],
+            "emoticons": [
+                ":*"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 19,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "☺️",
+            "hexcode": "263a",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "smiling face",
+            "tags": [
+                "face",
+                "happy",
+                "outlined",
+                "relaxed",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":warm-smile:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 21,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😚",
+            "hexcode": "1f61a",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "kissing face with closed eyes",
+            "tags": [
+                "143",
+                "bae",
+                "blush",
+                "closed",
+                "date",
+                "dating",
+                "eye",
+                "eyes",
+                "face",
+                "flirt",
+                "ily",
+                "kisses",
+                "kissing",
+                "smooches",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":kissing-closed-eyes:"
+            ],
+            "emoticons": [
+                ":**"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 22,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😙",
+            "hexcode": "1f619",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "kissing face with smiling eyes",
+            "tags": [
+                "143",
+                "closed",
+                "date",
+                "dating",
+                "eye",
+                "eyes",
+                "face",
+                "flirt",
+                "ily",
+                "kiss",
+                "kisses",
+                "kissing",
+                "love",
+                "night",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":kissing-smiling-eyes:"
+            ],
+            "emoticons": [
+                "^3^"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 23,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥲",
+            "hexcode": "1f972",
+            "group": "smileys-emotion",
+            "subgroup": "face-affection",
+            "annotation": "smiling face with tear",
+            "tags": [
+                "face",
+                "glad",
+                "grateful",
+                "happy",
+                "joy",
+                "pain",
+                "proud",
+                "relieved",
+                "smile",
+                "smiley",
+                "smiling",
+                "tear",
+                "touched"
+            ],
+            "shortcodes": [
+                ":happy-cry:"
+            ],
+            "emoticons": [
+                ":,)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13,
+            "order": 24,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😋",
+            "hexcode": "1f60b",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "face savoring food",
+            "tags": [
+                "delicious",
+                "eat",
+                "face",
+                "food",
+                "full",
+                "hungry",
+                "savor",
+                "smile",
+                "smiling",
+                "tasty",
+                "um",
+                "yum",
+                "yummy"
+            ],
+            "shortcodes": [
+                ":yum:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 25,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😛",
+            "hexcode": "1f61b",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "face with tongue",
+            "tags": [
+                "awesome",
+                "cool",
+                "face",
+                "nice",
+                "party",
+                "stuck-out",
+                "sweet",
+                "tongue"
+            ],
+            "shortcodes": [
+                ":stuck-out-tongue:"
+            ],
+            "emoticons": [
+                ":P",
+                ":p",
+                ":-P",
+                ":-p"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 26,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😜",
+            "hexcode": "1f61c",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "winking face with tongue",
+            "tags": [
+                "crazy",
+                "epic",
+                "eye",
+                "face",
+                "funny",
+                "joke",
+                "loopy",
+                "nutty",
+                "party",
+                "stuck-out",
+                "tongue",
+                "wacky",
+                "weirdo",
+                "wink",
+                "winking",
+                "yolo"
+            ],
+            "shortcodes": [
+                ":winky-tongue:"
+            ],
+            "emoticons": [
+                ";p"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 27,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤪",
+            "hexcode": "1f92a",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "zany face",
+            "tags": [
+                "crazy",
+                "eye",
+                "eyes",
+                "face",
+                "goofy",
+                "large",
+                "small",
+                "zany"
+            ],
+            "shortcodes": [
+                ":zany-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 28,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😝",
+            "hexcode": "1f61d",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "squinting face with tongue",
+            "tags": [
+                "closed",
+                "eye",
+                "eyes",
+                "face",
+                "gross",
+                "horrible",
+                "omg",
+                "squinting",
+                "stuck-out",
+                "taste",
+                "tongue",
+                "whatever",
+                "yolo"
+            ],
+            "shortcodes": [
+                ":squinting-tongue:"
+            ],
+            "emoticons": [
+                ">q<"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 29,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤑",
+            "hexcode": "1f911",
+            "group": "smileys-emotion",
+            "subgroup": "face-tongue",
+            "annotation": "money-mouth face",
+            "tags": [
+                "face",
+                "money",
+                "money-mouth",
+                "mouth",
+                "paid"
+            ],
+            "shortcodes": [
+                ":money-face:"
+            ],
+            "emoticons": [
+                "$_$"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 30,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤗",
+            "hexcode": "1f917",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "smiling face with open hands",
+            "tags": [
+                "face",
+                "hands",
+                "hug",
+                "hugging",
+                "open",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":hug-face:"
+            ],
+            "emoticons": [
+                "\\(^o^)/"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 31,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤭",
+            "hexcode": "1f92d",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "face with hand over mouth",
+            "tags": [
+                "face",
+                "giggle",
+                "giggling",
+                "hand",
+                "mouth",
+                "oops",
+                "realization",
+                "secret",
+                "shock",
+                "sudden",
+                "surprise",
+                "whoops"
+            ],
+            "shortcodes": [
+                ":smiling-eyes-with-hand-over-mouth:",
+                ":chuckling:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 32,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫢",
+            "hexcode": "1fae2",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "face with open eyes and hand over mouth",
+            "tags": [
+                "amazement",
+                "awe",
+                "disbelief",
+                "embarrass",
+                "eyes",
+                "face",
+                "gasp",
+                "hand",
+                "mouth",
+                "omg",
+                "open",
+                "over",
+                "quiet",
+                "scared",
+                "shock",
+                "surprise"
+            ],
+            "shortcodes": [
+                ":hand-over-mouth:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 33,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫣",
+            "hexcode": "1fae3",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "face with peeking eye",
+            "tags": [
+                "captivated",
+                "embarrass",
+                "eye",
+                "face",
+                "hide",
+                "hiding",
+                "peek",
+                "peeking",
+                "peep",
+                "scared",
+                "shy",
+                "stare"
+            ],
+            "shortcodes": [
+                ":peeking:"
+            ],
+            "emoticons": [
+                "(*/。＼)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 34,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤫",
+            "hexcode": "1f92b",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "shushing face",
+            "tags": [
+                "face",
+                "quiet",
+                "shh",
+                "shush",
+                "shushing"
+            ],
+            "shortcodes": [
+                ":shushing-face:"
+            ],
+            "emoticons": [
+                "(￣b￣)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 35,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤔",
+            "hexcode": "1f914",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "thinking face",
+            "tags": [
+                "chin",
+                "consider",
+                "face",
+                "hmm",
+                "ponder",
+                "pondering",
+                "thinking",
+                "wondering"
+            ],
+            "shortcodes": [
+                ":thinking-face:"
+            ],
+            "emoticons": [
+                "=L"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 36,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫡",
+            "hexcode": "1fae1",
+            "group": "smileys-emotion",
+            "subgroup": "face-hand",
+            "annotation": "saluting face",
+            "tags": [
+                "face",
+                "good",
+                "luck",
+                "ma’am",
+                "ok",
+                "respect",
+                "salute",
+                "saluting",
+                "sir",
+                "troops",
+                "yes"
+            ],
+            "shortcodes": [
+                ":salute:"
+            ],
+            "emoticons": [
+                "(・д・ゝ）"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 37,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤐",
+            "hexcode": "1f910",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "zipper-mouth face",
+            "tags": [
+                "face",
+                "keep",
+                "mouth",
+                "quiet",
+                "secret",
+                "shut",
+                "zip",
+                "zipper",
+                "zipper-mouth"
+            ],
+            "shortcodes": [
+                ":zipper-face:"
+            ],
+            "emoticons": [
+                ":#"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 38,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤨",
+            "hexcode": "1f928",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "face with raised eyebrow",
+            "tags": [
+                "disapproval",
+                "disbelief",
+                "distrust",
+                "emoji",
+                "eyebrow",
+                "face",
+                "hmm",
+                "mild",
+                "raised",
+                "skeptic",
+                "skeptical",
+                "skepticism",
+                "surprise",
+                "what"
+            ],
+            "shortcodes": [
+                ":raised-eyebrow:"
+            ],
+            "emoticons": [
+                "(",
+                "͝סּ",
+                "͜ʖ͡סּ)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 39,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😐️",
+            "hexcode": "1f610",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "neutral face",
+            "tags": [
+                "awkward",
+                "blank",
+                "deadpan",
+                "expressionless",
+                "face",
+                "fine",
+                "jealous",
+                "meh",
+                "neutral",
+                "oh",
+                "shade",
+                "straight",
+                "unamused",
+                "unhappy",
+                "unimpressed",
+                "whatever"
+            ],
+            "shortcodes": [
+                ":neutral-face:"
+            ],
+            "emoticons": [
+                ":|"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.7,
+            "order": 40,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😑",
+            "hexcode": "1f611",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "expressionless face",
+            "tags": [
+                "awkward",
+                "dead",
+                "expressionless",
+                "face",
+                "fine",
+                "inexpressive",
+                "jealous",
+                "meh",
+                "not",
+                "oh",
+                "omg",
+                "straight",
+                "uh",
+                "unhappy",
+                "unimpressed",
+                "whatever"
+            ],
+            "shortcodes": [
+                ":expressionless:"
+            ],
+            "emoticons": [
+                "-_-"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 41,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😶",
+            "hexcode": "1f636",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "face without mouth",
+            "tags": [
+                "awkward",
+                "blank",
+                "expressionless",
+                "face",
+                "mouth",
+                "mouthless",
+                "mute",
+                "quiet",
+                "secret",
+                "silence",
+                "silent",
+                "speechless"
+            ],
+            "shortcodes": [
+                ":mouth-none:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 42,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫥",
+            "hexcode": "1fae5",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "dotted line face",
+            "tags": [
+                "depressed",
+                "disappear",
+                "dotted",
+                "face",
+                "hidden",
+                "hide",
+                "introvert",
+                "invisible",
+                "line",
+                "meh",
+                "whatever",
+                "wtv"
+            ],
+            "shortcodes": [
+                ":dotted-line-face:",
+                ":invisible:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 43,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😶‍🌫️",
+            "hexcode": "1f636-200d-1f32b-fe0f",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "face in clouds",
+            "tags": [
+                "absentminded",
+                "clouds",
+                "face",
+                "fog",
+                "head"
+            ],
+            "shortcodes": [
+                ":face-in-clouds:",
+                ":lost:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13.1,
+            "order": 44,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😏",
+            "hexcode": "1f60f",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "smirking face",
+            "tags": [
+                "boss",
+                "dapper",
+                "face",
+                "flirt",
+                "homie",
+                "kidding",
+                "leer",
+                "shade",
+                "slick",
+                "sly",
+                "smirk",
+                "smug",
+                "snicker",
+                "suave",
+                "suspicious",
+                "swag"
+            ],
+            "shortcodes": [
+                ":smirk:"
+            ],
+            "emoticons": [
+                ">~>"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 46,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😒",
+            "hexcode": "1f612",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "unamused face",
+            "tags": [
+                "...",
+                "bored",
+                "face",
+                "fine",
+                "jealous",
+                "jel",
+                "jelly",
+                "pissed",
+                "smh",
+                "ugh",
+                "uhh",
+                "unamused",
+                "unhappy",
+                "weird",
+                "whatever"
+            ],
+            "shortcodes": [
+                ":unamused:"
+            ],
+            "emoticons": [
+                ">->"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 47,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙄",
+            "hexcode": "1f644",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "face with rolling eyes",
+            "tags": [
+                "eyeroll",
+                "eyes",
+                "face",
+                "rolling",
+                "shade",
+                "ugh",
+                "whatever"
+            ],
+            "shortcodes": [
+                ":rolling-eyes:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 48,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😬",
+            "hexcode": "1f62c",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "grimacing face",
+            "tags": [
+                "awk",
+                "awkward",
+                "dentist",
+                "face",
+                "grimace",
+                "grimacing",
+                "grinning",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":grimacing:"
+            ],
+            "emoticons": [
+                ":-|"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 49,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😮‍💨",
+            "hexcode": "1f62e-200d-1f4a8",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "face exhaling",
+            "tags": [
+                "blow",
+                "blowing",
+                "exhale",
+                "exhaling",
+                "exhausted",
+                "face",
+                "gasp",
+                "groan",
+                "relief",
+                "sigh",
+                "smiley",
+                "smoke",
+                "whisper",
+                "whistle"
+            ],
+            "shortcodes": [
+                ":exhale:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13.1,
+            "order": 50,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤥",
+            "hexcode": "1f925",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "lying face",
+            "tags": [
+                "face",
+                "liar",
+                "lie",
+                "lying",
+                "pinocchio"
+            ],
+            "shortcodes": [
+                ":liar:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 51,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫨",
+            "hexcode": "1fae8",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "shaking face",
+            "tags": [
+                "crazy",
+                "daze",
+                "earthquake",
+                "face",
+                "omg",
+                "panic",
+                "shaking",
+                "shock",
+                "surprise",
+                "vibrate",
+                "whoa",
+                "wow"
+            ],
+            "shortcodes": [
+                ":shaking-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15,
+            "order": 52,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙂‍↔️",
+            "hexcode": "1f642-200d-2194-fe0f",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "head shaking horizontally",
+            "tags": [
+                "head",
+                "horizontally",
+                "no",
+                "shake",
+                "shaking"
+            ],
+            "shortcodes": [
+                ":head-shake:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15.1,
+            "order": 53,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙂‍↕️",
+            "hexcode": "1f642-200d-2195-fe0f",
+            "group": "smileys-emotion",
+            "subgroup": "face-neutral-skeptical",
+            "annotation": "head shaking vertically",
+            "tags": [
+                "head",
+                "nod",
+                "shaking",
+                "vertically",
+                "yes"
+            ],
+            "shortcodes": [
+                ":head-nod:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15.1,
+            "order": 55,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😌",
+            "hexcode": "1f60c",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "relieved face",
+            "tags": [
+                "calm",
+                "face",
+                "peace",
+                "relief",
+                "relieved",
+                "zen"
+            ],
+            "shortcodes": [
+                ":relieved:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 57,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😔",
+            "hexcode": "1f614",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "pensive face",
+            "tags": [
+                "awful",
+                "bored",
+                "dejected",
+                "died",
+                "disappointed",
+                "face",
+                "losing",
+                "lost",
+                "pensive",
+                "sad",
+                "sucks"
+            ],
+            "shortcodes": [
+                ":pensive:"
+            ],
+            "emoticons": [
+                "._."
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 58,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😪",
+            "hexcode": "1f62a",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "sleepy face",
+            "tags": [
+                "crying",
+                "face",
+                "good",
+                "night",
+                "sad",
+                "sleep",
+                "sleeping",
+                "sleepy",
+                "tired"
+            ],
+            "shortcodes": [
+                ":sleepy:"
+            ],
+            "emoticons": [
+                "(-.-)zzZZ"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 59,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤤",
+            "hexcode": "1f924",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "drooling face",
+            "tags": [
+                "drooling",
+                "face"
+            ],
+            "shortcodes": [
+                ":drool:"
+            ],
+            "emoticons": [
+                "(¯﹃¯)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 60,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😴",
+            "hexcode": "1f634",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "sleeping face",
+            "tags": [
+                "bed",
+                "bedtime",
+                "face",
+                "good",
+                "goodnight",
+                "nap",
+                "night",
+                "sleep",
+                "sleeping",
+                "tired",
+                "whatever",
+                "yawn",
+                "zzz"
+            ],
+            "shortcodes": [
+                ":sleep:",
+                ":tired:"
+            ],
+            "emoticons": [
+                "Z_Z"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 61,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫩",
+            "hexcode": "1fae9",
+            "group": "smileys-emotion",
+            "subgroup": "face-sleepy",
+            "annotation": "face with bags under eyes",
+            "tags": [
+                "bags",
+                "bored",
+                "exhausted",
+                "eyes",
+                "face",
+                "fatigued",
+                "late",
+                "sleepy",
+                "tired",
+                "weary"
+            ],
+            "shortcodes": [],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 16,
+            "order": 62,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😷",
+            "hexcode": "1f637",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face with medical mask",
+            "tags": [
+                "cold",
+                "dentist",
+                "dermatologist",
+                "doctor",
+                "dr",
+                "face",
+                "germs",
+                "mask",
+                "medical",
+                "medicine",
+                "sick"
+            ],
+            "shortcodes": [
+                ":mask:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 63,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤒",
+            "hexcode": "1f912",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face with thermometer",
+            "tags": [
+                "face",
+                "ill",
+                "sick",
+                "thermometer"
+            ],
+            "shortcodes": [
+                ":thermometer-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 64,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤕",
+            "hexcode": "1f915",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face with head-bandage",
+            "tags": [
+                "bandage",
+                "face",
+                "head-bandage",
+                "hurt",
+                "injury",
+                "ouch"
+            ],
+            "shortcodes": [
+                ":bandage-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 65,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤢",
+            "hexcode": "1f922",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "nauseated face",
+            "tags": [
+                "face",
+                "gross",
+                "nasty",
+                "nauseated",
+                "sick",
+                "vomit"
+            ],
+            "shortcodes": [
+                ":sick:",
+                ":nauseated:"
+            ],
+            "emoticons": [
+                ":-###"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 66,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤮",
+            "hexcode": "1f92e",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face vomiting",
+            "tags": [
+                "barf",
+                "ew",
+                "face",
+                "gross",
+                "puke",
+                "sick",
+                "spew",
+                "throw",
+                "up",
+                "vomit",
+                "vomiting"
+            ],
+            "shortcodes": [
+                ":vomit:"
+            ],
+            "emoticons": [
+                ":-O##"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 67,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤧",
+            "hexcode": "1f927",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "sneezing face",
+            "tags": [
+                "face",
+                "fever",
+                "flu",
+                "gesundheit",
+                "sick",
+                "sneeze",
+                "sneezing"
+            ],
+            "shortcodes": [
+                ":sneeze:"
+            ],
+            "emoticons": [
+                "(*´台｀*)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 68,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥵",
+            "hexcode": "1f975",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "hot face",
+            "tags": [
+                "dying",
+                "face",
+                "feverish",
+                "heat",
+                "hot",
+                "panting",
+                "red-faced",
+                "stroke",
+                "sweating",
+                "tongue"
+            ],
+            "shortcodes": [
+                ":hot-face:",
+                ":sweat-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 69,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥶",
+            "hexcode": "1f976",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "cold face",
+            "tags": [
+                "blue",
+                "blue-faced",
+                "cold",
+                "face",
+                "freezing",
+                "frostbite",
+                "icicles",
+                "subzero",
+                "teeth"
+            ],
+            "shortcodes": [
+                ":cold-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 70,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥴",
+            "hexcode": "1f974",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "woozy face",
+            "tags": [
+                "dizzy",
+                "drunk",
+                "eyes",
+                "face",
+                "intoxicated",
+                "mouth",
+                "tipsy",
+                "uneven",
+                "wavy",
+                "woozy"
+            ],
+            "shortcodes": [
+                ":woozy:"
+            ],
+            "emoticons": [
+                ">﹏☉"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 71,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😵",
+            "hexcode": "1f635",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face with crossed-out eyes",
+            "tags": [
+                "crossed-out",
+                "dead",
+                "dizzy",
+                "eyes",
+                "face",
+                "feels",
+                "knocked",
+                "out",
+                "sick",
+                "tired"
+            ],
+            "shortcodes": [
+                ":x-eyes:"
+            ],
+            "emoticons": [
+                "X_o"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 72,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😵‍💫",
+            "hexcode": "1f635-200d-1f4ab",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "face with spiral eyes",
+            "tags": [
+                "confused",
+                "dizzy",
+                "eyes",
+                "face",
+                "hypnotized",
+                "omg",
+                "smiley",
+                "spiral",
+                "trouble",
+                "whoa",
+                "woah",
+                "woozy"
+            ],
+            "shortcodes": [
+                ":dizzy-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13.1,
+            "order": 73,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤯",
+            "hexcode": "1f92f",
+            "group": "smileys-emotion",
+            "subgroup": "face-unwell",
+            "annotation": "exploding head",
+            "tags": [
+                "blown",
+                "explode",
+                "exploding",
+                "head",
+                "mind",
+                "mindblown",
+                "no",
+                "shocked",
+                "way"
+            ],
+            "shortcodes": [
+                ":mind-blown:",
+                ":exploding-head:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 74,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤠",
+            "hexcode": "1f920",
+            "group": "smileys-emotion",
+            "subgroup": "face-hat",
+            "annotation": "cowboy hat face",
+            "tags": [
+                "cowboy",
+                "cowgirl",
+                "face",
+                "hat"
+            ],
+            "shortcodes": [
+                ":cowboy:"
+            ],
+            "emoticons": [
+                "<):)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 75,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥳",
+            "hexcode": "1f973",
+            "group": "smileys-emotion",
+            "subgroup": "face-hat",
+            "annotation": "partying face",
+            "tags": [
+                "bday",
+                "birthday",
+                "celebrate",
+                "celebration",
+                "excited",
+                "face",
+                "happy",
+                "hat",
+                "hooray",
+                "horn",
+                "party",
+                "partying"
+            ],
+            "shortcodes": [
+                ":partying-face:"
+            ],
+            "emoticons": [
+                "(ﾉ◕ヮ◕)♬♪"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 76,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥸",
+            "hexcode": "1f978",
+            "group": "smileys-emotion",
+            "subgroup": "face-hat",
+            "annotation": "disguised face",
+            "tags": [
+                "disguise",
+                "eyebrow",
+                "face",
+                "glasses",
+                "incognito",
+                "moustache",
+                "mustache",
+                "nose",
+                "person",
+                "spy",
+                "tache",
+                "tash"
+            ],
+            "shortcodes": [
+                ":disguise:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13,
+            "order": 77,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😎",
+            "hexcode": "1f60e",
+            "group": "smileys-emotion",
+            "subgroup": "face-glasses",
+            "annotation": "smiling face with sunglasses",
+            "tags": [
+                "awesome",
+                "beach",
+                "bright",
+                "bro",
+                "chilling",
+                "cool",
+                "face",
+                "rad",
+                "relaxed",
+                "shades",
+                "slay",
+                "smile",
+                "style",
+                "sunglasses",
+                "swag",
+                "win"
+            ],
+            "shortcodes": [
+                ":sunglasses-face:"
+            ],
+            "emoticons": [
+                "B-)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 78,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤓",
+            "hexcode": "1f913",
+            "group": "smileys-emotion",
+            "subgroup": "face-glasses",
+            "annotation": "nerd face",
+            "tags": [
+                "brainy",
+                "clever",
+                "expert",
+                "face",
+                "geek",
+                "gifted",
+                "glasses",
+                "intelligent",
+                "nerd",
+                "smart"
+            ],
+            "shortcodes": [
+                ":nerd-face:"
+            ],
+            "emoticons": [
+                ":-B"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 79,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🧐",
+            "hexcode": "1f9d0",
+            "group": "smileys-emotion",
+            "subgroup": "face-glasses",
+            "annotation": "face with monocle",
+            "tags": [
+                "classy",
+                "face",
+                "fancy",
+                "monocle",
+                "rich",
+                "stuffy",
+                "wealthy"
+            ],
+            "shortcodes": [
+                ":monocle:"
+            ],
+            "emoticons": [
+                "o~O"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 80,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😕",
+            "hexcode": "1f615",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "confused face",
+            "tags": [
+                "befuddled",
+                "confused",
+                "confusing",
+                "dunno",
+                "face",
+                "frown",
+                "hm",
+                "meh",
+                "not",
+                "sad",
+                "sorry",
+                "sure"
+            ],
+            "shortcodes": [
+                ":slightly-frowning:"
+            ],
+            "emoticons": [
+                ":-/"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 81,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🫤",
+            "hexcode": "1fae4",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "face with diagonal mouth",
+            "tags": [
+                "confused",
+                "confusion",
+                "diagonal",
+                "disappointed",
+                "doubt",
+                "doubtful",
+                "face",
+                "frustrated",
+                "frustration",
+                "meh",
+                "mouth",
+                "skeptical",
+                "unsure",
+                "whatever",
+                "wtv"
+            ],
+            "shortcodes": [
+                ":diagonal-mouth:"
+            ],
+            "emoticons": [
+                ":/"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 82,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😟",
+            "hexcode": "1f61f",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "worried face",
+            "tags": [
+                "anxious",
+                "butterflies",
+                "face",
+                "nerves",
+                "nervous",
+                "sad",
+                "stress",
+                "stressed",
+                "surprised",
+                "worried",
+                "worry"
+            ],
+            "shortcodes": [
+                ":worried:"
+            ],
+            "emoticons": [
+                ":S"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 83,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙁",
+            "hexcode": "1f641",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "slightly frowning face",
+            "tags": [
+                "face",
+                "frown",
+                "frowning",
+                "sad",
+                "slightly"
+            ],
+            "shortcodes": [
+                ":frown:"
+            ],
+            "emoticons": [
+                ":("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 84,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "☹️",
+            "hexcode": "2639",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "frowning face",
+            "tags": [
+                "face",
+                "frown",
+                "frowning",
+                "sad"
+            ],
+            "shortcodes": [
+                ":big-frown:"
+            ],
+            "emoticons": [
+                ":-("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.7,
+            "order": 86,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😮",
+            "hexcode": "1f62e",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "face with open mouth",
+            "tags": [
+                "believe",
+                "face",
+                "forgot",
+                "mouth",
+                "omg",
+                "open",
+                "shocked",
+                "surprised",
+                "sympathy",
+                "unbelievable",
+                "unreal",
+                "whoa",
+                "wow",
+                "you"
+            ],
+            "shortcodes": [
+                ":mouth-open:"
+            ],
+            "emoticons": [
+                ":O"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 87,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😯",
+            "hexcode": "1f62f",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "hushed face",
+            "tags": [
+                "epic",
+                "face",
+                "hushed",
+                "omg",
+                "stunned",
+                "surprised",
+                "whoa",
+                "woah"
+            ],
+            "shortcodes": [
+                ":surprised:",
+                ":hushed:"
+            ],
+            "emoticons": [
+                ":o"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 88,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😲",
+            "hexcode": "1f632",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "astonished face",
+            "tags": [
+                "astonished",
+                "cost",
+                "face",
+                "no",
+                "omg",
+                "shocked",
+                "totally",
+                "way"
+            ],
+            "shortcodes": [
+                ":astonished:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 89,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😳",
+            "hexcode": "1f633",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "flushed face",
+            "tags": [
+                "amazed",
+                "awkward",
+                "crazy",
+                "dazed",
+                "dead",
+                "disbelief",
+                "embarrassed",
+                "face",
+                "flushed",
+                "geez",
+                "heat",
+                "hot",
+                "impressed",
+                "jeez",
+                "what",
+                "wow"
+            ],
+            "shortcodes": [
+                ":flushed:"
+            ],
+            "emoticons": [
+                "8‑0"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 90,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥺",
+            "hexcode": "1f97a",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "pleading face",
+            "tags": [
+                "begging",
+                "big",
+                "eyes",
+                "face",
+                "mercy",
+                "not",
+                "pleading",
+                "please",
+                "pretty",
+                "puppy",
+                "sad",
+                "why"
+            ],
+            "shortcodes": [
+                ":pleading:"
+            ],
+            "emoticons": [
+                "◕﹏◕"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 11,
+            "order": 91,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥹",
+            "hexcode": "1f979",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "face holding back tears",
+            "tags": [
+                "admiration",
+                "aww",
+                "back",
+                "cry",
+                "embarrassed",
+                "face",
+                "feelings",
+                "grateful",
+                "gratitude",
+                "holding",
+                "joy",
+                "please",
+                "proud",
+                "resist",
+                "sad",
+                "tears"
+            ],
+            "shortcodes": [
+                ":holding-back-tears:"
+            ],
+            "emoticons": [
+                "(；人；)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 14,
+            "order": 92,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😦",
+            "hexcode": "1f626",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "frowning face with open mouth",
+            "tags": [
+                "caught",
+                "face",
+                "frown",
+                "frowning",
+                "guard",
+                "mouth",
+                "open",
+                "scared",
+                "scary",
+                "surprise",
+                "what",
+                "wow"
+            ],
+            "shortcodes": [
+                ":gasp:"
+            ],
+            "emoticons": [
+                "D="
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 93,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😧",
+            "hexcode": "1f627",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "anguished face",
+            "tags": [
+                "anguished",
+                "face",
+                "forgot",
+                "scared",
+                "scary",
+                "stressed",
+                "surprise",
+                "unhappy",
+                "what",
+                "wow"
+            ],
+            "shortcodes": [
+                ":anguished:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 94,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😨",
+            "hexcode": "1f628",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "fearful face",
+            "tags": [
+                "afraid",
+                "anxious",
+                "blame",
+                "face",
+                "fear",
+                "fearful",
+                "scared",
+                "worried"
+            ],
+            "shortcodes": [
+                ":scared:"
+            ],
+            "emoticons": [
+                "D-:"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 95,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😰",
+            "hexcode": "1f630",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "anxious face with sweat",
+            "tags": [
+                "anxious",
+                "blue",
+                "cold",
+                "eek",
+                "face",
+                "mouth",
+                "nervous",
+                "open",
+                "rushed",
+                "scared",
+                "sweat",
+                "yikes"
+            ],
+            "shortcodes": [
+                ":anxious-with-sweat:"
+            ],
+            "emoticons": [
+                "D-':"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 96,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😥",
+            "hexcode": "1f625",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "sad but relieved face",
+            "tags": [
+                "anxious",
+                "call",
+                "close",
+                "complicated",
+                "disappointed",
+                "face",
+                "not",
+                "relieved",
+                "sad",
+                "sweat",
+                "time",
+                "whew"
+            ],
+            "shortcodes": [
+                ":concerned:"
+            ],
+            "emoticons": [
+                "•_•'"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 97,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😢",
+            "hexcode": "1f622",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "crying face",
+            "tags": [
+                "awful",
+                "cry",
+                "crying",
+                "face",
+                "feels",
+                "miss",
+                "sad",
+                "tear",
+                "triste",
+                "unhappy"
+            ],
+            "shortcodes": [
+                ":cry:"
+            ],
+            "emoticons": [
+                ":'("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 98,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😭",
+            "hexcode": "1f62d",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "loudly crying face",
+            "tags": [
+                "bawling",
+                "cry",
+                "crying",
+                "face",
+                "loudly",
+                "sad",
+                "sob",
+                "tear",
+                "tears",
+                "unhappy"
+            ],
+            "shortcodes": [
+                ":loudly-crying:"
+            ],
+            "emoticons": [
+                ";_;"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 99,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😱",
+            "hexcode": "1f631",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "face screaming in fear",
+            "tags": [
+                "epic",
+                "face",
+                "fear",
+                "fearful",
+                "munch",
+                "scared",
+                "scream",
+                "screamer",
+                "screaming",
+                "shocked",
+                "surprised",
+                "woah"
+            ],
+            "shortcodes": [
+                ":screaming:"
+            ],
+            "emoticons": [
+                "@0@"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 100,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😖",
+            "hexcode": "1f616",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "confounded face",
+            "tags": [
+                "annoyed",
+                "confounded",
+                "confused",
+                "cringe",
+                "distraught",
+                "face",
+                "feels",
+                "frustrated",
+                "mad",
+                "sad"
+            ],
+            "shortcodes": [
+                ":scrunched-mouth:",
+                ":confounded:",
+                ":zigzag-mouth:"
+            ],
+            "emoticons": [
+                ">:["
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 101,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😣",
+            "hexcode": "1f623",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "persevering face",
+            "tags": [
+                "concentrate",
+                "concentration",
+                "face",
+                "focus",
+                "headache",
+                "persevere",
+                "persevering"
+            ],
+            "shortcodes": [
+                ":scrunched-eyes:",
+                ":persevering:"
+            ],
+            "emoticons": [
+                ">:("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 102,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😞",
+            "hexcode": "1f61e",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "disappointed face",
+            "tags": [
+                "awful",
+                "blame",
+                "dejected",
+                "disappointed",
+                "face",
+                "fail",
+                "losing",
+                "sad",
+                "unhappy"
+            ],
+            "shortcodes": [
+                ":sad:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 103,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😓",
+            "hexcode": "1f613",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "downcast face with sweat",
+            "tags": [
+                "close",
+                "cold",
+                "downcast",
+                "face",
+                "feels",
+                "headache",
+                "nervous",
+                "sad",
+                "scared",
+                "sweat",
+                "yikes"
+            ],
+            "shortcodes": [
+                ":sweat:",
+                ":downcast:"
+            ],
+            "emoticons": [
+                "(0へ0)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 104,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😩",
+            "hexcode": "1f629",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "weary face",
+            "tags": [
+                "crying",
+                "face",
+                "fail",
+                "feels",
+                "hungry",
+                "mad",
+                "nooo",
+                "sad",
+                "sleepy",
+                "tired",
+                "unhappy",
+                "weary"
+            ],
+            "shortcodes": [
+                ":weary:"
+            ],
+            "emoticons": [
+                "D:"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 105,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😫",
+            "hexcode": "1f62b",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "tired face",
+            "tags": [
+                "cost",
+                "face",
+                "feels",
+                "nap",
+                "sad",
+                "sneeze",
+                "tired"
+            ],
+            "shortcodes": [
+                ":distraught:"
+            ],
+            "emoticons": [
+                "D-X"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 106,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🥱",
+            "hexcode": "1f971",
+            "group": "smileys-emotion",
+            "subgroup": "face-concerned",
+            "annotation": "yawning face",
+            "tags": [
+                "bedtime",
+                "bored",
+                "face",
+                "goodnight",
+                "nap",
+                "night",
+                "sleep",
+                "sleepy",
+                "tired",
+                "whatever",
+                "yawn",
+                "yawning",
+                "zzz"
+            ],
+            "shortcodes": [
+                ":yawn:"
+            ],
+            "emoticons": [
+                "~O~"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 12,
+            "order": 107,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😤",
+            "hexcode": "1f624",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "face with steam from nose",
+            "tags": [
+                "anger",
+                "angry",
+                "face",
+                "feels",
+                "fume",
+                "fuming",
+                "furious",
+                "fury",
+                "mad",
+                "nose",
+                "steam",
+                "triumph",
+                "unhappy",
+                "won"
+            ],
+            "shortcodes": [
+                ":triumph:"
+            ],
+            "emoticons": [
+                "(((╬◣﹏◢)))"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 108,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😡",
+            "hexcode": "1f621",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "enraged face",
+            "tags": [
+                "anger",
+                "angry",
+                "enraged",
+                "face",
+                "feels",
+                "mad",
+                "maddening",
+                "pouting",
+                "rage",
+                "red",
+                "shade",
+                "unhappy",
+                "upset"
+            ],
+            "shortcodes": [
+                ":rage:"
+            ],
+            "emoticons": [
+                ">:O"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 109,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😠",
+            "hexcode": "1f620",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "angry face",
+            "tags": [
+                "anger",
+                "angry",
+                "blame",
+                "face",
+                "feels",
+                "frustrated",
+                "mad",
+                "maddening",
+                "rage",
+                "shade",
+                "unhappy",
+                "upset"
+            ],
+            "shortcodes": [
+                ":angry:"
+            ],
+            "emoticons": [
+                "X-("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 110,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤬",
+            "hexcode": "1f92c",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "face with symbols on mouth",
+            "tags": [
+                "censor",
+                "cursing",
+                "cussing",
+                "face",
+                "mad",
+                "mouth",
+                "pissed",
+                "swearing",
+                "symbols"
+            ],
+            "shortcodes": [
+                ":cursing:"
+            ],
+            "emoticons": [
+                "#$@!"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 111,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😈",
+            "hexcode": "1f608",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "smiling face with horns",
+            "tags": [
+                "demon",
+                "devil",
+                "evil",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "horns",
+                "purple",
+                "shade",
+                "smile",
+                "smiling",
+                "tale"
+            ],
+            "shortcodes": [
+                ":imp-smile:"
+            ],
+            "emoticons": [
+                "3:)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 112,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👿",
+            "hexcode": "1f47f",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "angry face with horns",
+            "tags": [
+                "angry",
+                "demon",
+                "devil",
+                "evil",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "horns",
+                "imp",
+                "mischievous",
+                "purple",
+                "shade",
+                "tale"
+            ],
+            "shortcodes": [
+                ":imp-frown:"
+            ],
+            "emoticons": [
+                "3:("
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 113,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💀",
+            "hexcode": "1f480",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "skull",
+            "tags": [
+                "body",
+                "dead",
+                "death",
+                "face",
+                "fairy",
+                "fairytale",
+                "i’m",
+                "lmao",
+                "monster",
+                "tale",
+                "yolo"
+            ],
+            "shortcodes": [
+                ":skull:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 114,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "☠️",
+            "hexcode": "2620",
+            "group": "smileys-emotion",
+            "subgroup": "face-negative",
+            "annotation": "skull and crossbones",
+            "tags": [
+                "bone",
+                "crossbones",
+                "dead",
+                "death",
+                "face",
+                "monster",
+                "skull"
+            ],
+            "shortcodes": [
+                ":skull-and-crossbones:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 116,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💩",
+            "hexcode": "1f4a9",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "pile of poo",
+            "tags": [
+                "bs",
+                "comic",
+                "doo",
+                "dung",
+                "face",
+                "fml",
+                "monster",
+                "pile",
+                "poo",
+                "poop",
+                "smelly",
+                "smh",
+                "stink",
+                "stinks",
+                "stinky",
+                "turd"
+            ],
+            "shortcodes": [
+                ":poop:"
+            ],
+            "emoticons": [
+                "༼^-^༽"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 117,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤡",
+            "hexcode": "1f921",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "clown face",
+            "tags": [
+                "clown",
+                "face"
+            ],
+            "shortcodes": [
+                ":clown:"
+            ],
+            "emoticons": [
+                ":o)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 118,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👹",
+            "hexcode": "1f479",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "ogre",
+            "tags": [
+                "creature",
+                "devil",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "mask",
+                "monster",
+                "scary",
+                "tale"
+            ],
+            "shortcodes": [
+                ":ogre:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 119,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👺",
+            "hexcode": "1f47a",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "goblin",
+            "tags": [
+                "angry",
+                "creature",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "mask",
+                "mean",
+                "monster",
+                "tale"
+            ],
+            "shortcodes": [
+                ":goblin:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 120,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👻",
+            "hexcode": "1f47b",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "ghost",
+            "tags": [
+                "boo",
+                "creature",
+                "excited",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "halloween",
+                "haunting",
+                "monster",
+                "scary",
+                "silly",
+                "tale"
+            ],
+            "shortcodes": [
+                ":ghost:"
+            ],
+            "emoticons": [
+                "⊂(´・◡・⊂)∘˚˳°"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 121,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👽️",
+            "hexcode": "1f47d",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "alien",
+            "tags": [
+                "creature",
+                "extraterrestrial",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "monster",
+                "space",
+                "tale",
+                "ufo"
+            ],
+            "shortcodes": [
+                ":alien:"
+            ],
+            "emoticons": [
+                "(<>..<>)"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 122,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👾",
+            "hexcode": "1f47e",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "alien monster",
+            "tags": [
+                "alien",
+                "creature",
+                "extraterrestrial",
+                "face",
+                "fairy",
+                "fairytale",
+                "fantasy",
+                "game",
+                "gamer",
+                "games",
+                "monster",
+                "pixelated",
+                "space",
+                "tale",
+                "ufo"
+            ],
+            "shortcodes": [
+                ":alien-monster:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 123,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤖",
+            "hexcode": "1f916",
+            "group": "smileys-emotion",
+            "subgroup": "face-costume",
+            "annotation": "robot",
+            "tags": [
+                "face",
+                "monster"
+            ],
+            "shortcodes": [
+                ":robot:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 124,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😺",
+            "hexcode": "1f63a",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "grinning cat",
+            "tags": [
+                "animal",
+                "cat",
+                "face",
+                "grinning",
+                "mouth",
+                "open",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":smiley-cat:"
+            ],
+            "emoticons": [
+                ":3"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 125,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😸",
+            "hexcode": "1f638",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "grinning cat with smiling eyes",
+            "tags": [
+                "animal",
+                "cat",
+                "eye",
+                "eyes",
+                "face",
+                "grin",
+                "grinning",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":smile-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 126,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😹",
+            "hexcode": "1f639",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "cat with tears of joy",
+            "tags": [
+                "animal",
+                "cat",
+                "face",
+                "joy",
+                "laugh",
+                "laughing",
+                "lol",
+                "tear",
+                "tears"
+            ],
+            "shortcodes": [
+                ":joy-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 127,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😻",
+            "hexcode": "1f63b",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "smiling cat with heart-eyes",
+            "tags": [
+                "animal",
+                "cat",
+                "eye",
+                "face",
+                "heart",
+                "heart-eyes",
+                "love",
+                "smile",
+                "smiling"
+            ],
+            "shortcodes": [
+                ":heart-eyes-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 128,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😼",
+            "hexcode": "1f63c",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "cat with wry smile",
+            "tags": [
+                "animal",
+                "cat",
+                "face",
+                "ironic",
+                "smile",
+                "wry"
+            ],
+            "shortcodes": [
+                ":smirk-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 129,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😽",
+            "hexcode": "1f63d",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "kissing cat",
+            "tags": [
+                "animal",
+                "cat",
+                "closed",
+                "eye",
+                "eyes",
+                "face",
+                "kiss",
+                "kissing"
+            ],
+            "shortcodes": [
+                ":kissing-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 130,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙀",
+            "hexcode": "1f640",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "weary cat",
+            "tags": [
+                "animal",
+                "cat",
+                "face",
+                "oh",
+                "surprised",
+                "weary"
+            ],
+            "shortcodes": [
+                ":scream-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 131,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😿",
+            "hexcode": "1f63f",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "crying cat",
+            "tags": [
+                "animal",
+                "cat",
+                "cry",
+                "crying",
+                "face",
+                "sad",
+                "tear"
+            ],
+            "shortcodes": [
+                ":crying-cat-face:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 132,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "😾",
+            "hexcode": "1f63e",
+            "group": "smileys-emotion",
+            "subgroup": "cat-face",
+            "annotation": "pouting cat",
+            "tags": [
+                "animal",
+                "cat",
+                "face",
+                "pouting"
+            ],
+            "shortcodes": [
+                ":pouting-cat:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 133,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙈",
+            "hexcode": "1f648",
+            "group": "smileys-emotion",
+            "subgroup": "monkey-face",
+            "annotation": "see-no-evil monkey",
+            "tags": [
+                "embarrassed",
+                "evil",
+                "face",
+                "forbidden",
+                "forgot",
+                "gesture",
+                "hide",
+                "monkey",
+                "no",
+                "omg",
+                "prohibited",
+                "scared",
+                "secret",
+                "smh",
+                "watch"
+            ],
+            "shortcodes": [
+                ":see-no-evil-monkey:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 134,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙉",
+            "hexcode": "1f649",
+            "group": "smileys-emotion",
+            "subgroup": "monkey-face",
+            "annotation": "hear-no-evil monkey",
+            "tags": [
+                "animal",
+                "ears",
+                "evil",
+                "face",
+                "forbidden",
+                "gesture",
+                "hear",
+                "listen",
+                "monkey",
+                "no",
+                "not",
+                "prohibited",
+                "secret",
+                "shh",
+                "tmi"
+            ],
+            "shortcodes": [
+                ":hear-no-evil-monkey:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 135,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🙊",
+            "hexcode": "1f64a",
+            "group": "smileys-emotion",
+            "subgroup": "monkey-face",
+            "annotation": "speak-no-evil monkey",
+            "tags": [
+                "animal",
+                "evil",
+                "face",
+                "forbidden",
+                "gesture",
+                "monkey",
+                "no",
+                "not",
+                "oops",
+                "prohibited",
+                "quiet",
+                "secret",
+                "speak",
+                "stealth"
+            ],
+            "shortcodes": [
+                ":speak-no-evil-monkey:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 136,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💌",
+            "hexcode": "1f48c",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "love letter",
+            "tags": [
+                "heart",
+                "letter",
+                "love",
+                "mail",
+                "romance",
+                "valentine"
+            ],
+            "shortcodes": [
+                ":love-letter:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 137,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💘",
+            "hexcode": "1f498",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "heart with arrow",
+            "tags": [
+                "143",
+                "adorbs",
+                "arrow",
+                "cupid",
+                "date",
+                "emotion",
+                "heart",
+                "ily",
+                "love",
+                "romance",
+                "valentine"
+            ],
+            "shortcodes": [
+                ":cupid:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 138,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💝",
+            "hexcode": "1f49d",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "heart with ribbon",
+            "tags": [
+                "143",
+                "anniversary",
+                "emotion",
+                "heart",
+                "ily",
+                "kisses",
+                "ribbon",
+                "valentine",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":gift-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 139,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💖",
+            "hexcode": "1f496",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "sparkling heart",
+            "tags": [
+                "143",
+                "emotion",
+                "excited",
+                "good",
+                "heart",
+                "ily",
+                "kisses",
+                "morning",
+                "night",
+                "sparkle",
+                "sparkling",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":sparkling-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 140,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💗",
+            "hexcode": "1f497",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "growing heart",
+            "tags": [
+                "143",
+                "emotion",
+                "excited",
+                "growing",
+                "heart",
+                "heartpulse",
+                "ily",
+                "kisses",
+                "muah",
+                "nervous",
+                "pulse",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":heart-grow:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 141,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💓",
+            "hexcode": "1f493",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "beating heart",
+            "tags": [
+                "143",
+                "beating",
+                "cardio",
+                "emotion",
+                "heart",
+                "heartbeat",
+                "ily",
+                "love",
+                "pulsating",
+                "pulse"
+            ],
+            "shortcodes": [
+                ":beating-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 142,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💞",
+            "hexcode": "1f49e",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "revolving hearts",
+            "tags": [
+                "143",
+                "adorbs",
+                "anniversary",
+                "emotion",
+                "heart",
+                "hearts",
+                "revolving"
+            ],
+            "shortcodes": [
+                ":revolving-hearts:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 143,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💕",
+            "hexcode": "1f495",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "two hearts",
+            "tags": [
+                "143",
+                "anniversary",
+                "date",
+                "dating",
+                "emotion",
+                "heart",
+                "hearts",
+                "ily",
+                "kisses",
+                "love",
+                "loving",
+                "two",
+                "xoxo"
+            ],
+            "shortcodes": [
+                ":two-hearts:"
+            ],
+            "emoticons": [
+                "<3<3"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 144,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💟",
+            "hexcode": "1f49f",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "heart decoration",
+            "tags": [
+                "143",
+                "decoration",
+                "emotion",
+                "heart",
+                "hearth",
+                "purple",
+                "white"
+            ],
+            "shortcodes": [
+                ":heart-box:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 145,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "❣️",
+            "hexcode": "2763",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "heart exclamation",
+            "tags": [
+                "exclamation",
+                "heart",
+                "heavy",
+                "mark",
+                "punctuation"
+            ],
+            "shortcodes": [
+                ":heart-exclamation-point:"
+            ],
+            "emoticons": [
+                "<3!"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 147,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💔",
+            "hexcode": "1f494",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "broken heart",
+            "tags": [
+                "break",
+                "broken",
+                "crushed",
+                "emotion",
+                "heart",
+                "heartbroken",
+                "lonely",
+                "sad"
+            ],
+            "shortcodes": [
+                ":broken-heart:"
+            ],
+            "emoticons": [
+                "</3"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 148,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "❤️‍🔥",
+            "hexcode": "2764-fe0f-200d-1f525",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "heart on fire",
+            "tags": [
+                "burn",
+                "fire",
+                "heart",
+                "love",
+                "lust",
+                "sacred"
+            ],
+            "shortcodes": [
+                ":fire-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13.1,
+            "order": 149,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "❤️‍🩹",
+            "hexcode": "2764-fe0f-200d-1fa79",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "mending heart",
+            "tags": [
+                "healthier",
+                "heart",
+                "improving",
+                "mending",
+                "recovering",
+                "recuperating",
+                "well"
+            ],
+            "shortcodes": [
+                ":bandaged-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 13.1,
+            "order": 151,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "❤️",
+            "hexcode": "2764",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "red heart",
+            "tags": [
+                "emotion",
+                "heart",
+                "love",
+                "red"
+            ],
+            "shortcodes": [
+                ":red-heart:"
+            ],
+            "emoticons": [
+                "<3"
+            ],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 154,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🩷",
+            "hexcode": "1fa77",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "pink heart",
+            "tags": [
+                "143",
+                "adorable",
+                "cute",
+                "emotion",
+                "heart",
+                "ily",
+                "like",
+                "love",
+                "pink",
+                "special",
+                "sweet"
+            ],
+            "shortcodes": [
+                ":pink-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15,
+            "order": 155,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🧡",
+            "hexcode": "1f9e1",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "orange heart",
+            "tags": [
+                "143",
+                "heart",
+                "orange"
+            ],
+            "shortcodes": [
+                ":orange-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 5,
+            "order": 156,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💛",
+            "hexcode": "1f49b",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "yellow heart",
+            "tags": [
+                "143",
+                "cardiac",
+                "emotion",
+                "heart",
+                "ily",
+                "love",
+                "yellow"
+            ],
+            "shortcodes": [
+                ":yellow-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 157,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💚",
+            "hexcode": "1f49a",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "green heart",
+            "tags": [
+                "143",
+                "emotion",
+                "green",
+                "heart",
+                "ily",
+                "love",
+                "romantic"
+            ],
+            "shortcodes": [
+                ":green-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 158,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💙",
+            "hexcode": "1f499",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "blue heart",
+            "tags": [
+                "143",
+                "blue",
+                "emotion",
+                "heart",
+                "ily",
+                "love",
+                "romance"
+            ],
+            "shortcodes": [
+                ":blue-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 159,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🩵",
+            "hexcode": "1fa75",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "light blue heart",
+            "tags": [
+                "143",
+                "blue",
+                "cute",
+                "cyan",
+                "emotion",
+                "heart",
+                "ily",
+                "light",
+                "like",
+                "love",
+                "sky",
+                "special",
+                "teal"
+            ],
+            "shortcodes": [
+                ":light-blue-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15,
+            "order": 160,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💜",
+            "hexcode": "1f49c",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "purple heart",
+            "tags": [
+                "143",
+                "bestest",
+                "emotion",
+                "heart",
+                "ily",
+                "love",
+                "purple"
+            ],
+            "shortcodes": [
+                ":purple-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 161,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤎",
+            "hexcode": "1f90e",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "brown heart",
+            "tags": [
+                "143",
+                "brown",
+                "heart"
+            ],
+            "shortcodes": [
+                ":brown-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 12,
+            "order": 162,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🖤",
+            "hexcode": "1f5a4",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "black heart",
+            "tags": [
+                "black",
+                "evil",
+                "heart",
+                "wicked"
+            ],
+            "shortcodes": [
+                ":black-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 3,
+            "order": 163,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🩶",
+            "hexcode": "1fa76",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "grey heart",
+            "tags": [
+                "143",
+                "emotion",
+                "gray",
+                "grey",
+                "heart",
+                "ily",
+                "love",
+                "silver",
+                "slate",
+                "special"
+            ],
+            "shortcodes": [
+                ":grey-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 15,
+            "order": 164,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🤍",
+            "hexcode": "1f90d",
+            "group": "smileys-emotion",
+            "subgroup": "heart",
+            "annotation": "white heart",
+            "tags": [
+                "143",
+                "heart",
+                "white"
+            ],
+            "shortcodes": [
+                ":white-heart:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 12,
+            "order": 165,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💋",
+            "hexcode": "1f48b",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "kiss mark",
+            "tags": [
+                "dating",
+                "emotion",
+                "heart",
+                "kiss",
+                "kissing",
+                "lips",
+                "mark",
+                "romance",
+                "sexy"
+            ],
+            "shortcodes": [
+                ":kiss:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 166,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💯",
+            "hexcode": "1f4af",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "hundred points",
+            "tags": [
+                "100",
+                "a+",
+                "agree",
+                "clearly",
+                "definitely",
+                "faithful",
+                "fleek",
+                "full",
+                "hundred",
+                "keep",
+                "perfect",
+                "point",
+                "score",
+                "true",
+                "truth",
+                "yup"
+            ],
+            "shortcodes": [
+                ":100:",
+                ":one-hundred:",
+                ":hundred:",
+                ":points:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 167,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💢",
+            "hexcode": "1f4a2",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "anger symbol",
+            "tags": [
+                "anger",
+                "angry",
+                "comic",
+                "mad",
+                "symbol",
+                "upset"
+            ],
+            "shortcodes": [
+                ":anger:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 168,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💥",
+            "hexcode": "1f4a5",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "collision",
+            "tags": [
+                "bomb",
+                "boom",
+                "collide",
+                "comic",
+                "explode"
+            ],
+            "shortcodes": [
+                ":collision:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 169,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💫",
+            "hexcode": "1f4ab",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "dizzy",
+            "tags": [
+                "comic",
+                "shining",
+                "shooting",
+                "star",
+                "stars"
+            ],
+            "shortcodes": [
+                ":dizzy:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 170,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💦",
+            "hexcode": "1f4a6",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "sweat droplets",
+            "tags": [
+                "comic",
+                "drip",
+                "droplet",
+                "droplets",
+                "drops",
+                "splashing",
+                "squirt",
+                "sweat",
+                "water",
+                "wet",
+                "work",
+                "workout"
+            ],
+            "shortcodes": [
+                ":sweat-droplets:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 171,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💨",
+            "hexcode": "1f4a8",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "dashing away",
+            "tags": [
+                "away",
+                "cloud",
+                "comic",
+                "dash",
+                "dashing",
+                "fart",
+                "fast",
+                "go",
+                "gone",
+                "gotta",
+                "running",
+                "smoke"
+            ],
+            "shortcodes": [
+                ":dash:",
+                ":poof:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 172,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🕳️",
+            "hexcode": "1f573",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "hole",
+            "tags": [
+                "hole"
+            ],
+            "shortcodes": [
+                ":hole:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.7,
+            "order": 174,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💬",
+            "hexcode": "1f4ac",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "speech balloon",
+            "tags": [
+                "balloon",
+                "bubble",
+                "comic",
+                "dialog",
+                "message",
+                "sms",
+                "speech",
+                "talk",
+                "text",
+                "typing"
+            ],
+            "shortcodes": [
+                ":speech-bubble:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.6,
+            "order": 175,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "👁️‍🗨️",
+            "hexcode": "1f441-fe0f-200d-1f5e8-fe0f",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "eye in speech bubble",
+            "tags": [
+                "balloon",
+                "bubble",
+                "eye",
+                "speech",
+                "witness"
+            ],
+            "shortcodes": [
+                ":eye-bubble:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 2,
+            "order": 176,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🗨️",
+            "hexcode": "1f5e8",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "left speech bubble",
+            "tags": [
+                "balloon",
+                "bubble",
+                "dialog",
+                "left",
+                "speech"
+            ],
+            "shortcodes": [
+                ":speech-bubble-leftwards:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 2,
+            "order": 181,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "🗯️",
+            "hexcode": "1f5ef",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "right anger bubble",
+            "tags": [
+                "anger",
+                "angry",
+                "balloon",
+                "bubble",
+                "mad",
+                "right"
+            ],
+            "shortcodes": [
+                ":anger-bubble:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 0.7,
+            "order": 183,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        },
+        {
+            "emoji": "💭",
+            "hexcode": "1f4ad",
+            "group": "smileys-emotion",
+            "subgroup": "emotion",
+            "annotation": "thought balloon",
+            "tags": [
+                "balloon",
+                "bubble",
+                "cartoon",
+                "cloud",
+                "comic",
+                "daydream",
+                "decisions",
+                "dream",
+                "idea",
+                "invent",
+                "invention",
+                "realize",
+                "think",
+                "thoughts",
+                "wonder"
+            ],
+            "shortcodes": [
+                ":thought-bubble:",
+                ":thought-balloon:"
+            ],
+            "emoticons": [],
+            "directional": false,
+            "variation": false,
+            "variationBase": null,
+            "unicode": 1,
+            "order": 184,
+            "skintone": null,
+            "skintoneCombination": null,
+            "skintoneBase": null
+        }
+    ]
+}

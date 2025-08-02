@@ -19,9 +19,9 @@ body {
 }
 
 .top-bar {
-  grid-column: span 5;
-  max-width: 1200px;
-  margin: 20px auto 0;
+  grid-column: span 7;
+  max-width: 1400px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   gap: 10px;
@@ -57,12 +57,12 @@ body {
 
 
 .wrapper {
-  max-width: 1200px;
-  margin: 40px auto;
+  max-width: 1400px;
+  margin: 20px auto;
   padding: 20px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15%, 1fr));
-  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(12%, 1fr));
+  gap: 20px;
 }
 
 .wrapper::after {
@@ -79,7 +79,7 @@ body {
   background: var(--card-bg);
   border-radius: 20px;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
-  padding: 25px;
+  padding: 20px;
   transition: transform 0.3s ease;
 }
 
@@ -88,7 +88,10 @@ body {
 }
 
 .location-card {
-  grid-column: span 3;
+  grid-column: span 5;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .location-card h1 {
@@ -102,7 +105,7 @@ body {
   color: var(--text-light);
 }
 
-.weather-icon {
+.weather-icon:not(.small) {
   text-align: center;
   grid-column: span 2;
 }
@@ -139,6 +142,7 @@ body {
 
 .data-pair {
   margin-bottom: 12px;
+  width: 20%;
 }
 
 .grid-pair {
@@ -153,6 +157,29 @@ body {
   padding: 20px;
   font-size: 14px;
   color: #888;
+}
+
+.day-icon {
+  text-align: center;
+}
+
+.day-icon .day-temp {
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.day-icon p {
+  margin-bottom: 0;
+}
+
+.details {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-end;
+}
+.day-condition {
+  color: var(--accent);
 }
 
 @media (max-width: 768px) {
